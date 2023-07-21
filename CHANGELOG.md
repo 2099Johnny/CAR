@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/web3-storage/ipfs-car/compare/v1.0.0...v1.0.1) (2023-07-21)
+
+
+### Bug Fixes
+
+* docs typos ([#153](https://github.com/web3-storage/ipfs-car/issues/153)) ([0144a86](https://github.com/web3-storage/ipfs-car/commit/0144a86f013087b0b54ebc195542b640c723a99b))
+
 ## [1.0.0](https://github.com/web3-storage/ipfs-car/compare/v0.9.2...v1.0.0) (2023-03-20)
 
 
